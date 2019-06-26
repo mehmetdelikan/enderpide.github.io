@@ -1,0 +1,20 @@
+body {
+  height: 100%;
+  background: url('../images/denizli-ender-pide-bg.jpg') rgb(255, 255, 255);
+  background-size: 960px 640px;
+  background-position: center center;
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 174px;
+  height: auto;
+  margin: auto;
+  overflow: hidden;
+}
